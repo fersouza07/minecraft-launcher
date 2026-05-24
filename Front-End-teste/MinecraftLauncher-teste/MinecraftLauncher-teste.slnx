@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../FernandoLauncher/FernandoLauncher.csproj" />
+  <Project Path="MinecraftLauncher-teste/MinecraftLauncher-teste.csproj" />
+</Solution>
